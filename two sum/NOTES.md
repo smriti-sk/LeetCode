@@ -1,7 +1,8 @@
 # TWO SUM
 ## Optimised solution using maps
-            
-- Traverse the array whilst checking whether (target - num[i]) is in the map or not.
+__O(n) time complexity__    
+
+Traverse the array whilst checking whether (target - num[i]) is in the map or not.
 
 Example: 
 Target = 6
@@ -9,7 +10,7 @@ Array nums:
 2|7|11|4|
 -|-|--|-|
 
-    - if (target - num[i]) is present in the map, then return its index
+- if (target - num[i]) is present in the map, then return its index
 
         ```
         for (int i=0; i<n; i++){
@@ -19,17 +20,17 @@ Array nums:
             }
         ```
 
-    - else put the current element in the map table
-        ```
-        return {mp[target - nums[i]], i};
-        ```
-        and check the next element
+- else put the current element in the map table
+    ```
+    return {mp[target - nums[i]], i};
+    ```
+and check the next element
 
-        nums | index
-        -----|------
-        2    | 0    
-        7    | 1    
-        11   | 15   
+nums | index
+-----|------
+2    | 0    
+7    | 1    
+11   | 15   
 
 
 
