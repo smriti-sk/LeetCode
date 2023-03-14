@@ -1,31 +1,35 @@
-# TWO SUM
-## Optimised solution using maps
-            
-- Traverse the array whilst checking whether (target - num[i]) is in the map or not.
+# [1. Two Sum](https://leetcode.com/problems/two-sum/)
+### Easy
+<hr>
 
-    - if (target - num[i]) is present in the map, then return its index
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
-        ```
-        for (int i=0; i<n; i++){
-                if (mp.find(target - nums[i]) == mp.end()){
-                    mp[nums[i]] = i;
-                }
-            }
-        ```
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
-    - else put the current element in the map table
-        ```
-        return {mp[target - nums[i]], i};
-        ```
-        and check the next element
+You can return the answer in any order.
+ 
 
-        nums | index
-        -----|------
-        2    | 0    
-        7    | 1    
-        11   | 15   
+__Example 1:__
 
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
+__Example 2:__
 
+Input: nums = [3,2,4], target = 6
+Output: [1,2]
 
+__Example 3:__
 
+Input: nums = [3,3], target = 6
+Output: [0,1]
+ 
+
+__Constraints:__
+
+2 <= nums.length <= 104
+-109 <= nums[i] <= 109
+-109 <= target <= 109
+
+_Only one valid answer exists._
