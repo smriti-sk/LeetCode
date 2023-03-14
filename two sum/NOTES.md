@@ -3,6 +3,12 @@
             
 - Traverse the array whilst checking whether (target - num[i]) is in the map or not.
 
+Example: 
+Target = 6
+Array nums:
+2|7|11|4|
+-|-|--|-|
+
     - if (target - num[i]) is present in the map, then return its index
 
         ```
