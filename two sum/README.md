@@ -1,6 +1,6 @@
 # TWO SUM
 ## Optimised solution using maps
-
+            
 - Traverse the array whilst checking whether (target - num[i]) is in the map or not.
 
     - if (target - num[i]) is present in the map, then return its index
@@ -19,8 +19,13 @@
         ```
         and check the next element
 
-            |nums| index|
-            |----|------|
-            |2   | 0    |
-            |7   | 1    |
-            |11  | 15   |
+        nums | index
+        -----|------
+        2    | 0    
+        7    | 1    
+        11   | 15   
+
+
+
+
+
