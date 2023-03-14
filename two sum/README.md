@@ -19,8 +19,8 @@
         ```
         and check the next element
 
-            nums| index
-            ----|------
-            2   | 0    
-            7   | 1   
-            11  | 15   
+            |nums| index|
+            |----|------|
+            |2   | 0    |
+            |7   | 1    |
+            |11  | 15   |
