@@ -1,6 +1,7 @@
 # 169. Majority Element
 
 ## Approach 1
+using maps but it will consume a lot of space.
 
 ## Approach (Fastest)
 
