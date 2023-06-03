@@ -2,7 +2,7 @@
 
 ### Greedy approach
 Ex: nums: 
-7|1|5|3|6|4 
+1|2|4|7|3|4 
 -|-|-|-|-|-|
 a | b |c|d|e|f
 
