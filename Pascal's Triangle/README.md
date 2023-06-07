@@ -6,7 +6,7 @@ Given an integer numRows, return the first numRows of Pascal's triangle.
 
 In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif"  width="600" height="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif"  width="450" height="300">
 
 __Example 1:__
 
