@@ -1,7 +1,9 @@
 # Leetcode Questions + Solution + Notes
 
 ## INDEX
-
+### Leetcode Daily Challenge Questions
+- Easy
+1. [Count Negative Numbers in a Sorted Matrix]()
 ### Arrays
 - Easy
 
