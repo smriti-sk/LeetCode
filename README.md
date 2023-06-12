@@ -3,7 +3,9 @@
 ## INDEX
 ### Leetcode Daily Challenge Questions
 - Easy
-1. [Count Negative Numbers in a Sorted Matrix]()
+1. [Count Negative Numbers in a Sorted Matrix](https://github.com/smriti-sk/LeetCode/tree/main/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
+
+
 ### Arrays
 - Easy
 
@@ -21,10 +23,10 @@
 - Medium
 1. [Best Time to Buy and Sell Stock II](https://github.com/smriti-sk/LeetCode/tree/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
 2. []()
-3. []()
-4. []()
-5. []()
 
+## Hashmap /Maps
+- Easy
+1. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 ## Strings
 - Easy
 1. [Add Strings](https://github.com/smriti-sk/LeetCode/tree/main/Add%20Strings)
