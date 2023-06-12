@@ -26,7 +26,7 @@
 
 ## Hashmap /Maps
 - Easy
-1. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+1. [Jewels and Stones](https://github.com/smriti-sk/LeetCode/tree/main/Jewels%20and%20Stones)
 ## Strings
 - Easy
 1. [Add Strings](https://github.com/smriti-sk/LeetCode/tree/main/Add%20Strings)
