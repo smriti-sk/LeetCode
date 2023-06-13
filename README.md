@@ -27,7 +27,7 @@
 ## Hashmap /Maps
 - Easy
 1. [Jewels and Stones](https://github.com/smriti-sk/LeetCode/tree/main/Jewels%20and%20Stones)
-2. [How Many Numbers Are Smaller Than the Current Number]()
+2. [How Many Numbers Are Smaller Than the Current Number](https://github.com/smriti-sk/LeetCode/tree/main/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)
 
 ## Strings
 - Easy
