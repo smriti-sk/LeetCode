@@ -9,6 +9,8 @@
 - Medium
 1. [Reverse Integer
 ](https://github.com/smriti-sk/LeetCode/tree/main/Reverse%20Integer)
+2. [Complement of Base 10 Integer
+](https://github.com/smriti-sk/LeetCode/tree/main/Complement%20of%20Base%2010%20Integer)
 
 ### Arrays
 - Easy

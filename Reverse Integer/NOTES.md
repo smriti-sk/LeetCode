@@ -10,7 +10,7 @@ There will be two cases:
 
 ### Identifying the case<br>
   - we need to know-> (rev > INT_MAX)? <br>
-    (but rev must be less than INT_MAX)
+    (but rev must be less than INT_MAX, so that we are able to store it.)
   - we can know-> (rev > INT_MAX / 10)?<br> to decide return 0 or to continue rev = rev \* 10 + x % 10;
 
     _Similarly for (rev < INT_MIN)?_
