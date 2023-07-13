@@ -5,6 +5,10 @@
 - Easy
 1. [Count Negative Numbers in a Sorted Matrix](https://github.com/smriti-sk/LeetCode/tree/main/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
 
+### Maths / Logic
+- Medium
+1. [Reverse Integer
+](https://github.com/smriti-sk/LeetCode/tree/main/Reverse%20Integer)
 
 ### Arrays
 - Easy
