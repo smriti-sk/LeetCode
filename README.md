@@ -6,11 +6,12 @@
 1. [Count Negative Numbers in a Sorted Matrix](https://github.com/smriti-sk/LeetCode/tree/main/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
 
 ### Maths / Logic
+- Easy
+1. [Power of Two](https://github.com/smriti-sk/LeetCode/tree/main/Power%20of%20Two)
+
 - Medium
-1. [Reverse Integer
-](https://github.com/smriti-sk/LeetCode/tree/main/Reverse%20Integer)
-2. [Complement of Base 10 Integer
-](https://github.com/smriti-sk/LeetCode/tree/main/Complement%20of%20Base%2010%20Integer)
+1. [Reverse Integer](https://github.com/smriti-sk/LeetCode/tree/main/Reverse%20Integer)
+2. [Complement of Base 10 Integer](https://github.com/smriti-sk/LeetCode/tree/main/Complement%20of%20Base%2010%20Integer)
 
 ### Arrays
 - Easy
