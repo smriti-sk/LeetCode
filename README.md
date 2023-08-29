@@ -26,6 +26,8 @@
 8. [Fibonacci Number](https://github.com/smriti-sk/LeetCode/tree/main/Fibonacci%20Number)
 9. [Concatenation of Array](https://github.com/smriti-sk/LeetCode/tree/main/Concatenation%20of%20Array)
 10. [Build Array from Permutation](https://github.com/smriti-sk/LeetCode/tree/main/Build%20Array%20from%20Permutation)
+11. [Best Time to Buy and Sell Stock](https://github.com/smriti-sk/LeetCode/tree/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
+12. [Palindrome Number](https://github.com/smriti-sk/LeetCode/tree/main/Palindrome%20Number)
 
 - Medium
 1. [Best Time to Buy and Sell Stock II](https://github.com/smriti-sk/LeetCode/tree/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
